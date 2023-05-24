@@ -8,4 +8,4 @@ Step 2:
 mkdir bulid, cmake .. make
 
 step 3:
-./predict
+./passpredict
